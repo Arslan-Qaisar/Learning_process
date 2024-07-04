@@ -1,0 +1,1 @@
+console.log("hello javascript is running in a good way")
